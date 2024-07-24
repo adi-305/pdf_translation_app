@@ -15,7 +15,7 @@ To set up the application on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/pdf-translation-app.git
+   git clone https://github.com/adi-305/pdf_translation_app.git
    cd pdf-translation-app
    ```
 
