@@ -34,3 +34,10 @@ To run the application, use Streamlit:
 streamlit run app.py
 ```
 
+## How to Use the App
+
+1. **Upload a PDF**: Click on the "Choose a PDF file" button to upload a PDF file from your computer.
+2. **Translation Process**: The app will automatically extract and translate the text content of the uploaded PDF.
+3. **Download the Translated PDF**: Once the translation is complete, a download button will appear to allow you to download the translated PDF.
+
+
