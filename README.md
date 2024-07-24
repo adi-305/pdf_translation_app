@@ -28,3 +28,9 @@ To set up the application on your local machine, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+## Usage
+To run the application, use Streamlit:
+```bash
+streamlit run app.py
+```
+
