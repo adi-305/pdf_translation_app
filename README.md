@@ -18,3 +18,13 @@ To set up the application on your local machine, follow these steps:
    git clone https://github.com/your-username/pdf-translation-app.git
    cd pdf-translation-app
    ```
+
+2. **Create a Virtual Enviornment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+3. **Install the required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
