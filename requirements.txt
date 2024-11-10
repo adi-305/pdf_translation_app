@@ -2,3 +2,5 @@ streamlit
 transformers
 fitz
 torch  
+PyMuPDF
+sentencepiece
